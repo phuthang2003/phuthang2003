@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, I'm Trinh Phu Thang</h1>
 <h3 align="center">Data Analyst | Sales Ops | CS</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/28/2a/55/282a553eb2c2df8568763a558e8921b9.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phuthang2003&label=Profile%20views&color=0e75b6&style=flat" alt="phuthang2003" /> </p>
 
 - 🌱 I’m currently learning **Data Analyst Professional Certificates**
 
-- 👨‍💻 All of my projects are available at [phuthang2003.github.io](phuthang2003.github.io)
+- 👨‍💻 All of my projects are available at [phuthang2003.github.io](https://phuthang2003.github.io/)
 
 - 💬 Ask me about **Data Analytics, Business Intelligence, Sales**
 
